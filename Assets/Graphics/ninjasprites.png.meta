@@ -1,0 +1,1393 @@
+fileFormatVersion: 2
+guid: 40f25c85cc691fd4cbfec0ce97707042
+timeCreated: 1500106541
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: run_0
+    21300002: ninjasprites_1
+    21300004: ninjarun_0
+    21300006: ninjasprites_3
+    21300008: ninjasprites_4
+    21300010: ninjasprites_5
+    21300012: run_1
+    21300014: ninjasprites_7
+    21300016: ninjasprites_8
+    21300018: ninjasprites_9
+    21300020: ninjasprites_10
+    21300022: ninjasprites_11
+    21300024: ninjarun_4
+    21300026: run_2
+    21300028: ninjasprites_14
+    21300030: ninjasprites_15
+    21300032: ninjasprites_16
+    21300034: ninjasprites_17
+    21300036: ninjasprites_18
+    21300038: ninjasprites_19
+    21300040: ninjasprites_20
+    21300042: ninjasprites_21
+    21300044: ninjasprites_22
+    21300046: ninjasprites_23
+    21300048: ninjasprites_24
+    21300050: run_4
+    21300052: ninjasprites_26
+    21300054: ninjasprites_27
+    21300056: ninjasprites_28
+    21300058: ninjasprites_29
+    21300060: ninjasprites_30
+    21300062: run_5
+    21300064: ninjasprites_32
+    21300066: ninjasprites_33
+    21300068: ninjasprites_34
+    21300070: ninjasprites_35
+    21300072: ninjasprites_36
+    21300074: ninjasprites_37
+    21300076: ninjasprites_38
+    21300078: ninjasprites_39
+    21300080: ninjasprites_40
+    21300082: ninjasprites_41
+    21300084: run_6
+    21300086: ninjasprites_43
+    21300088: ninjasprites_44
+    21300090: ninjasprites_45
+    21300092: ninjasprites_46
+    21300094: ninjasprites_47
+    21300096: ninjasprites_48
+    21300098: ninjasprites_49
+    21300100: ninjasprites_50
+    21300102: ninjasprites_51
+    21300104: ninjasprites_52
+    21300106: ninjasprites_53
+    21300108: ninjasprites_54
+    21300110: ninjasprites_55
+    21300112: ninjasprites_56
+    21300114: ninjasprites_57
+    21300116: ninjasprites_58
+    21300118: ninjasprites_59
+    21300120: ninjasprites_60
+    21300122: ninjasprites_61
+    21300124: ninjasprites_62
+    21300126: ninjasprites_63
+    21300128: ninjasprites_64
+    21300130: ninjasprites_65
+    21300132: ninjasprites_66
+    21300134: ninjasprites_67
+    21300136: ninjarun_5
+    21300138: ninjasprites_69
+    21300140: ninjasprites_70
+    21300142: ninjasprites_71
+    21300144: ninjasprites_72
+    21300146: ninjasprites_73
+    21300148: ninjasprites_74
+    21300150: ninjasprites_75
+    21300152: ninjasprites_76
+    21300154: ninjasprites_77
+    21300156: ninjarun_3
+    21300158: ninjasprites_79
+    21300160: ninjasprites_80
+    21300162: ninjasprites_81
+    21300164: ninjasprites_82
+    21300166: ninjarun_2
+    21300168: ninjasprites_84
+    21300170: ninjarun_1
+    21300172: ninjasprites_86
+    21300174: ninjasprites_2
+    21300176: run_3
+    21300178: run_7
+    21300180: ninjasprites_78
+    21300182: run_8
+    21300184: ninjasprites_85
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: run_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 5902
+        width: 331
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_1
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 5893
+        width: 294
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_2
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 5878
+        width: 288
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_3
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 5893
+        width: 282
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_4
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 5893
+        width: 303
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_5
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 6001
+        width: 367
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: run_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 5435
+        width: 326
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_7
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 5394
+        width: 276
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_8
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 5403
+        width: 225
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_9
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 5378
+        width: 272
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_10
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 5393
+        width: 499
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_11
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 5393
+        width: 533
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: run_3
+      rect:
+        serializedVersion: 2
+        x: 2386
+        y: 5533
+        width: 328
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: run_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4994
+        width: 355
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_14
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 4916
+        width: 304
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_15
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 4919
+        width: 259
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_16
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 4888
+        width: 533
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_17
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 4888
+        width: 535
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_18
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 5183
+        width: 367
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 4525
+        width: 301
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_20
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 4370
+        width: 247
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_21
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 4435
+        width: 263
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_22
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 4395
+        width: 258
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_23
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 4423
+        width: 307
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_24
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 4408
+        width: 238
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: run_4
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 4730
+        width: 356
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_26
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 4104
+        width: 313
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_27
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 3998
+        width: 300
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_28
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 3527
+        width: 238
+        height: 890
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_29
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 3936
+        width: 239
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_30
+      rect:
+        serializedVersion: 2
+        x: 2358
+        y: 4363
+        width: 368
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: run_5
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 3645
+        width: 331
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_32
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 3914
+        width: 260
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_33
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 3908
+        width: 258
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_34
+      rect:
+        serializedVersion: 2
+        x: 2395
+        y: 3902
+        width: 322
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_35
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 3428
+        width: 309
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_36
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 3446
+        width: 325
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_37
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 3422
+        width: 304
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_38
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 3710
+        width: 40
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_39
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 3552
+        width: 364
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_40
+      rect:
+        serializedVersion: 2
+        x: 2246
+        y: 3012
+        width: 238
+        height: 890
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_41
+      rect:
+        serializedVersion: 2
+        x: 2485
+        y: 3012
+        width: 235
+        height: 890
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: run_6
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 3189
+        width: 320
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_43
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 2944
+        width: 273
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_44
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 2918
+        width: 341
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_45
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 3074
+        width: 301
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_46
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 3127
+        width: 341
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_47
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 2730
+        width: 306
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_48
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 2439
+        width: 422
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_49
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 2429
+        width: 476
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_50
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 2721
+        width: 363
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_51
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 2693
+        width: 350
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_52
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 2519
+        width: 381
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_53
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 2150
+        width: 474
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_54
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 2067
+        width: 363
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_55
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 2364
+        width: 359
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_56
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 2256
+        width: 358
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_57
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1586
+        width: 499
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_58
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1710
+        width: 366
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_59
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1865
+        width: 497
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_60
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 1874
+        width: 446
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_61
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 1819
+        width: 356
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_62
+      rect:
+        serializedVersion: 2
+        x: 2261
+        y: 2023
+        width: 440
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_63
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1059
+        width: 501
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_64
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1357
+        width: 368
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_65
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1412
+        width: 300
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_66
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 523
+        width: 239
+        height: 1333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_67
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 1409
+        width: 279
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: run_7
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 1391
+        width: 321
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_69
+      rect:
+        serializedVersion: 2
+        x: 2255
+        y: 1524
+        width: 446
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_70
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 566
+        width: 344
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_71
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 923
+        width: 309
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_72
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 950
+        width: 328
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_73
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 947
+        width: 328
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_74
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 898
+        width: 307
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_75
+      rect:
+        serializedVersion: 2
+        x: 2246
+        y: 1022
+        width: 446
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_76
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 457
+        width: 298
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_77
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 516
+        width: 335
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_78
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 501
+        width: 303
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_79
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 504
+        width: 369
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_80
+      rect:
+        serializedVersion: 2
+        x: 2255
+        y: 516
+        width: 446
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_81
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 95
+        width: 378
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_82
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 2
+        width: 248
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: run_8
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 23
+        width: 332
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_84
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 39
+        width: 388
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_85
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 64
+        width: 334
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninjasprites_86
+      rect:
+        serializedVersion: 2
+        x: 2178
+        y: 39
+        width: 421
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
